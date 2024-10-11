@@ -14,7 +14,7 @@ Floating button for chatting with your visitors via WhatsApp, Messenger, Contact
 
 The Chat Button by GetButton instantly connects website visitors to your preferred messaging apps like Facebook Messenger or WhatsApp, allowing them to initiate conversations with you directly. You can continue these conversations anytime, anywhere, ensuring seamless communication with your customers.
 
-https://www.youtube.com/watch?v=dBY17EJkgWM
+https://www.youtube.com/watch?v=dBY17EJkgWM?rel=0
 
 Now, with the **Custom ChatGPT-Powered Sales & Support Bot**—included FREE with the basic GetButton subscription—you can supercharge your customer interactions. Why hire more sales or support staff when the ChatGPT bot, trained on your website's content, can handle inquiries, guide visitors, and even close sales for you? It’s a cost-effective, smart solution that works around the clock.
 
