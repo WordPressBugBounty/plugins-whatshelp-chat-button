@@ -14,6 +14,8 @@ Floating button for chatting with your visitors via WhatsApp, Messenger, Contact
 
 The Chat Button by GetButton instantly connects website visitors to your preferred messaging apps like Facebook Messenger or WhatsApp, allowing them to initiate conversations with you directly. You can continue these conversations anytime, anywhere, ensuring seamless communication with your customers.
 
+https://www.youtube.com/watch?v=dBY17EJkgWM
+
 Now, with the **Custom ChatGPT-Powered Sales & Support Bot**—included FREE with the basic GetButton subscription—you can supercharge your customer interactions. Why hire more sales or support staff when the ChatGPT bot, trained on your website's content, can handle inquiries, guide visitors, and even close sales for you? It’s a cost-effective, smart solution that works around the clock.
 
 
@@ -60,7 +62,7 @@ Now, with the **Custom ChatGPT-Powered Sales & Support Bot**—included FREE wit
 GetButton offers 24×7 support. Send us an email at customer-success@getbutton.io for assistance.
 You can also connect with us on <a href="https://www.linkedin.com/company/getbutton/" target="_blank">LinkedIn</a>.
 
-Visit <a href="https://getbutton.io/" target="_blank">https://getbutton.io/</a> for more information.
+Visit <a href="https://getbutton.io/" target="_blank">https://getbutton.io/</a> and <a href="https://help.getbutton.io/" target="_blank">https://help.getbutton.io/</a> for more information.
 
 
 == Installation ==
@@ -78,7 +80,7 @@ Adding GetButton Chat Button to your Wordpress site is really easy, follow these
 
 == Frequently Asked Questions ==
 
-**For additional information check https://getbutton.io**
+**For additional information check https://help.getbutton.io**
 
 
 == Screenshots ==
@@ -88,6 +90,8 @@ Adding GetButton Chat Button to your Wordpress site is really easy, follow these
 2. Facebook and WhatsApp chat for website.
 
 3. Greeting message.
+
+4. GetButton ChatGPT bot.
 
 
 == Changelog ==
