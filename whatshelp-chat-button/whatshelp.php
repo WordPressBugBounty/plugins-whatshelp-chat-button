@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Chat Button by GetButton.io (ex. WhatsHelp)
  * Description: The Chat button by GetButton takes website visitor directly to the messaging app such as Facebook Messenger or WhatsApp and allows them to initiate a conversation with you. After that, both you and your customer can follow up the conversation anytime and anywhere!
- * Version: 1.9
+ * Version: 1.9.2
  * Author: GetButton
  * Author URI: https://getbutton.io
  */
@@ -131,7 +131,7 @@ function get_prefix()
 {
     $prefix = <<<EOTEXT
 \n\n<!-- GetButton.io widget -->
-<script type="text/javascript">
+<script data-no-optimize="1" type="text/javascript">
 (function () {\n
 EOTEXT;
     return $prefix;
@@ -161,7 +161,7 @@ function add_whatshelp_code()
     preg_match('/<script.+http.+\?[a-zA-Z0-9=&]*id=([a-zA-Z0-9]+)/', $dbval, $allVarsPos);
     if (count($allVarsPos) && isset($allVarsPos[1])) {
         $id = $allVarsPos[1];
-        echo "\n\n<!-- GetButton.io widget -->\n<script defer src=\"https://static.getbutton.io/widget/bundle.js?id=${id}\"></script>\n<!-- /GetButton.io widget -->\n\n";
+        echo "\n\n<!-- GetButton.io widget -->\n<script data-no-optimize=\"1\" defer src=\"https://static.getbutton.io/widget/bundle.js?id=${id}\"></script>\n<!-- /GetButton.io widget -->\n\n";
         return;
     }
 

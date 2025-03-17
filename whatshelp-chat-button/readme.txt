@@ -3,8 +3,8 @@ Contributors: GetButton
 Donate link: https://getbutton.io/
 Tags: whatsapp, chat button, chatgpt, live chat, chat gpt
 Requires at least: 2.7
-Tested up to: 6.6.1
-Stable tag: 1.9
+Tested up to: 6.7
+Stable tag: 1.9.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -95,6 +95,9 @@ Adding GetButton Chat Button to your Wordpress site is really easy, follow these
 
 
 == Changelog ==
+
+= 1.9.2 =
+Added support LiteSpeed Cache Plugin.
 
 = 1.9 =
 Added support for short code button (created in admin panel).
